@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Training-Institution/static/css/main.9e13a79e.chunk.css",
-    "main.js": "/Training-Institution/static/js/main.6ee881cd.chunk.js",
-    "main.js.map": "/Training-Institution/static/js/main.6ee881cd.chunk.js.map",
+    "main.css": "/Training-Institution/static/css/main.a89be765.chunk.css",
+    "main.js": "/Training-Institution/static/js/main.b46e49e7.chunk.js",
+    "main.js.map": "/Training-Institution/static/js/main.b46e49e7.chunk.js.map",
     "runtime-main.js": "/Training-Institution/static/js/runtime-main.d69926ab.js",
     "runtime-main.js.map": "/Training-Institution/static/js/runtime-main.d69926ab.js.map",
     "static/js/2.69e5405f.chunk.js": "/Training-Institution/static/js/2.69e5405f.chunk.js",
     "static/js/2.69e5405f.chunk.js.map": "/Training-Institution/static/js/2.69e5405f.chunk.js.map",
     "index.html": "/Training-Institution/index.html",
-    "static/css/main.9e13a79e.chunk.css.map": "/Training-Institution/static/css/main.9e13a79e.chunk.css.map",
+    "static/css/main.a89be765.chunk.css.map": "/Training-Institution/static/css/main.a89be765.chunk.css.map",
     "static/js/2.69e5405f.chunk.js.LICENSE.txt": "/Training-Institution/static/js/2.69e5405f.chunk.js.LICENSE.txt",
     "static/media/home.css": "/Training-Institution/static/media/fontawesome-webfont.f7f1738c.woff",
     "static/media/blogstyles.css": "/Training-Institution/static/media/new.227b18cb.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.d69926ab.js",
     "static/js/2.69e5405f.chunk.js",
-    "static/css/main.9e13a79e.chunk.css",
-    "static/js/main.6ee881cd.chunk.js"
+    "static/css/main.a89be765.chunk.css",
+    "static/js/main.b46e49e7.chunk.js"
   ]
 }
