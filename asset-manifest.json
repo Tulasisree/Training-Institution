@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Training-Institution/static/css/main.9e13a79e.chunk.css",
+    "main.js": "/Training-Institution/static/js/main.a7347a66.chunk.js",
+    "main.js.map": "/Training-Institution/static/js/main.a7347a66.chunk.js.map",
+    "runtime-main.js": "/Training-Institution/static/js/runtime-main.d69926ab.js",
+    "runtime-main.js.map": "/Training-Institution/static/js/runtime-main.d69926ab.js.map",
+    "static/js/2.69e5405f.chunk.js": "/Training-Institution/static/js/2.69e5405f.chunk.js",
+    "static/js/2.69e5405f.chunk.js.map": "/Training-Institution/static/js/2.69e5405f.chunk.js.map",
+    "index.html": "/Training-Institution/index.html",
+    "static/css/main.9e13a79e.chunk.css.map": "/Training-Institution/static/css/main.9e13a79e.chunk.css.map",
+    "static/js/2.69e5405f.chunk.js.LICENSE.txt": "/Training-Institution/static/js/2.69e5405f.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Training-Institution/static/media/fontawesome-webfont.f7f1738c.woff",
+    "static/media/blogstyles.css": "/Training-Institution/static/media/new.227b18cb.jpg",
+    "static/media/cd2.00627927.png": "/Training-Institution/static/media/cd2.00627927.png",
+    "static/media/cd4.b705d60b.jpg": "/Training-Institution/static/media/cd4.b705d60b.jpg",
+    "static/media/cd5.da1d67fa.jpg": "/Training-Institution/static/media/cd5.da1d67fa.jpg",
+    "static/media/cd6.c55530e0.png": "/Training-Institution/static/media/cd6.c55530e0.png",
+    "static/media/cd8.b23a1276.png": "/Training-Institution/static/media/cd8.b23a1276.png",
+    "static/media/ds.c3955ba5.jpg": "/Training-Institution/static/media/ds.c3955ba5.jpg",
+    "static/media/newbg.3f647b64.jpg": "/Training-Institution/static/media/newbg.3f647b64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69926ab.js",
+    "static/js/2.69e5405f.chunk.js",
+    "static/css/main.9e13a79e.chunk.css",
+    "static/js/main.a7347a66.chunk.js"
+  ]
+}
